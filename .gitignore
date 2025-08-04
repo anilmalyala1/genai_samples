@@ -94,6 +94,9 @@ repos/*
 *.tar
 *.bak
 
+# Node
+node_modules/
+
 # Ignore backups and temp
 *.bak
 *.tmp
